@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253088573393",
+    "project_id": "fir-exemple-7ba92",
+    "storage_bucket": "fir-exemple-7ba92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253088573393:android:4b182881f5b16f7297e2f0",
+        "android_client_info": {
+          "package_name": "com.karim.smartpark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253088573393-uogco2oi25kfp4215dho3ag5qulecim3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAMEEvb2PSw5qUamjiFxgWxMpoUBhZIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253088573393-uogco2oi25kfp4215dho3ag5qulecim3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
